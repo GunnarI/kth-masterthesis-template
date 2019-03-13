@@ -6,6 +6,7 @@
 *.bcf
 *.run.xml
 *.synctex.gz
+*.tex.bak
 *~
 exempelavhandling.pdf
 examplethesis.pdf
