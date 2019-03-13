@@ -1,0 +1,11 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.toc
+*.bcf
+*.run.xml
+*.synctex.gz
+*~
+exempelavhandling.pdf
+examplethesis.pdf
