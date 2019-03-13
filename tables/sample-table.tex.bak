@@ -1,0 +1,13 @@
+\begin{table}[!ht]
+\centering
+\caption{This is just a sample table to have something in the table folder and show how it is included. There are no standards regarding column with or line placements... that I could find.}
+~\\
+\label{tab:sample-table-label}
+\begin{tabular}{p{0.3\textwidth} | p{0.64\textwidth}}
+\toprule
+\textbf{SAMPLE}		  & \textbf{TABLE}                                                                                                                                                  \\ \hline
+One                   & Stuff 1 \\
+Two                   & Stuff 2 \\
+Three                 & Stuff 3\\ \hline
+\end{tabular}
+\end{table}
